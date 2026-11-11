@@ -4,6 +4,9 @@ Hi, I'm Fatima Tanveer, a WordPress and SEO Specialist with 3 years of experienc
 
 This repository showcases my practical skills in WordPress media management and website image optimization.
 
+<img width="1287" height="654" alt="image" src="https://github.com/user-attachments/assets/c387f0b9-bfad-4547-8be0-2dcd1a744d0a" />
+
+
 ## My Skills
 
 - WordPress Media Library Management
@@ -41,8 +44,6 @@ This repository showcases my practical skills in WordPress media management and 
 3. Landing Page Banners
 4. Product Images
 5. SEO Image Optimization
-
-<img width="1287" height="654" alt="image" src="https://github.com/user-attachments/assets/c387f0b9-bfad-4547-8be0-2dcd1a744d0a" />
 
 
 ## Contact
